@@ -40,7 +40,7 @@ body {
 
 }
 .titulo {
-  margin-bottom: 180px;
+  margin-bottom: 50px;
   font-family: "Arial Narrow", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
   color: rgb(238, 238, 238);
   position: fixed;
@@ -51,7 +51,7 @@ body {
   text-align: center;
   z-index: 1000;
   font-weight: bold;
-  letter-spacing: 10px;
+  letter-spacing: 0px;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
